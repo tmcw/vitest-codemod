@@ -1,0 +1,9 @@
+{
+  "main": "index.ts",
+  "dependencies": {
+    "@types/jscodeshift": "0.11.5",
+    "blitz": "2.0.0-beta.17",
+    "jscodeshift": "0.14.0",
+    "react": "^18.2.0"
+  }
+}
